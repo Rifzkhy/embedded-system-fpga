@@ -8,12 +8,12 @@ Dokumentasi praktikum mata kuliah **Sistem Tertanam** menggunakan papan pengemba
 
 ```text
 ├── week 1/
-│   ├── led_switch_top.vhd   # Deskripsi RTL rangkaian kombinasional (VHDL)
-│   ├── top.xdc              # Constraints file (pemetaan pin switch & LED)
-│   └── led_switch_top.bit   # Berkas konfigurasi bitstream biner
+│   ├── led_switch_top.vhd
+│   ├── top.xdc
+│   └── led_switch_top.bit
 ├── week 2/
 │   ├── mux4to1.vhd
 │   ├── mux8to1.vhd
 │   ├── tb_mux4to1.vhd
-│   ├── tb_mux8to1.vhd
+│   └── tb_mux8to1.vhd
 └── README.md
